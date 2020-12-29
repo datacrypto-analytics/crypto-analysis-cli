@@ -18,18 +18,13 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 
 - Note that on the website we have the <b> Results </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
 -----
-![](giff.gif)
+![](images/giff.gif)
 
 <p align="center">
   <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
 </p>
 
-<<<<<<< HEAD
 ![](images/gif.gif)
-=======
->>>>>>> 2b7f88affca4a772e18e08c6a3b066d8544e22fc
-
-
 
 <h2><b>Instalação/Installation</b></h2>
 
@@ -38,7 +33,14 @@ Download and install Anaconda Project
 
 - [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
+PyPi 
+
+`~$ pip install crypto-analysis-cli-datacryptoanalytics==0.0.1`
+
 -----
+
+## Ou/or
+
 - Download
 
 `~$ git clone https://github.com/datacryptoanalytics/crypto-analysis-cli.git`
