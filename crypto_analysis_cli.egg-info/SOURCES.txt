@@ -1,0 +1,6 @@
+README.md
+setup.py
+crypto_analysis_cli.egg-info/PKG-INFO
+crypto_analysis_cli.egg-info/SOURCES.txt
+crypto_analysis_cli.egg-info/dependency_links.txt
+crypto_analysis_cli.egg-info/top_level.txt

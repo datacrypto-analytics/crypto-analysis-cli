@@ -34,7 +34,7 @@ Download and install Anaconda Project
 
 PyPi 
 
-`~$ pip install crypto-analysis-cli-datacryptoanalytics==0.0.1`
+`~$ pip install crypto-analysis-cli==0.0.2`
 
 -----
 

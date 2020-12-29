@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: crypto-analysis-cli-datacryptoanalytics
-Version: 0.0.1
-Summary: Analyze Cryptocurrencies on the Binance Exchange
+Name: crypto-analysis-cli
+Version: 0.0.2
+Summary: Analyze Cryptocurrencies with Machine Learning on the Binance Exchange
 Home-page: https://github.com/datacrypto-analytics/crypto-analysis-cli
 Author: Felipe Soares
 Author-email: contato@datacryptoanalytics.com
@@ -42,7 +42,7 @@ Description:
         
         PyPi 
         
-        `~$ pip install crypto-analysis-cli-datacryptoanalytics==0.0.1`
+        `~$ pip install crypto-analysis-cli==0.0.2`
         
         -----
         
