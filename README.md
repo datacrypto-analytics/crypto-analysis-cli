@@ -25,11 +25,9 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 </p>
 
 
-<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki">Instalação/Installation</a></b></h2>
+<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/Instala%C3%A7%C3%A3o-Installation">Instalação/Installation</a></b></h2>
 
 
-
-<i>Atenção: Este repositório não contém os algoritmos a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
 
 ------
 
