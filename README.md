@@ -6,7 +6,16 @@
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics </a></h1>
  <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/"> Quantitative Analysis Algorithms </a></h3>
 
- 
+<center>
+
+![](images/giff.gif)
+
+![](images/gif.gif)
+
+</center>
+
+------ 
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">Descrição/Description </a></h3>
 
 
 Algoritmos Machine Learning para o mercado de <b>Criptomoedas</b>. Desenvolvido com rede neural e árvore de decisões que analisa as possiveís movimentações do mercado.
@@ -26,14 +35,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 <h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/L%C3%B3gica">Lógica</a></b></h2>
 
 -----
-<center>
-![](images/giff.gif)
 
-![](images/gif.gif)
-
-</center>
-
-------
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
