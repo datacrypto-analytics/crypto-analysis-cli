@@ -17,6 +17,16 @@ Algoritmos Machine Learning para o mercado de <b>Criptomoedas</b>. Desenvolvido 
 Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> market. Developed with neural network and decision tree that analyzes the possible movements of the market.
 
 - Note that on the website we have the <b> Results </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
+
+------
+<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/Instala%C3%A7%C3%A3o-Installation">Instalação/Installation</a></b></h2>
+
+------
+#Logica
+
+![](diagrama/giff.gif)
+
+
 -----
 ![](images/giff.gif)
 
@@ -25,14 +35,6 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 </p>
 
 ------
-<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/Instala%C3%A7%C3%A3o-Installation">Instalação/Installation</a></b></h2>
-
-
-
-------
-
-
-
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
