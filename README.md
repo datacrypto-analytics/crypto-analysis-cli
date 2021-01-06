@@ -24,7 +24,7 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
   <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
 </p>
 
-
+------
 <h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/Instala%C3%A7%C3%A3o-Installation">Instalação/Installation</a></b></h2>
 
 
