@@ -6,13 +6,14 @@
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">DataCrypto Analytics </a></h1>
  <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/"> Quantitative Analysis Algorithms </a></h3>
 
-<center>
 
 ![](images/giff.gif)
 
-![](images/gif.gif)
+<p align="center">
+  <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
+</p>
 
-</center>
+
 
 ------ 
  <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">Descrição/Description </a></h3>
@@ -28,13 +29,14 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 - Note that on the website we have the <b> Results </b> page, the <i> Backtesting </i> of our latest version is hosted, and on our channel at <a rel = "Youtube" href = "https: //www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube </a> installation and configuration videos.
 
 ------
+
+<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/L%C3%B3gica">Lógica Algo XGBoost.py</a></b></h2>
+
+-----
+
 <h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/Instala%C3%A7%C3%A3o-Installation">Instalação/Installation</a></b></h2>
 
 ------
-
-<h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/L%C3%B3gica">Lógica</a></b></h2>
-
------
 
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
