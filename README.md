@@ -26,13 +26,12 @@ Quantitative Machine Learning Algorithms for the <b> Cryptocurrencies </b> marke
 <h2><b> <a rel="datacryptoanalytics" href="https://github.com/datacrypto-analytics/crypto-analysis-cli/wiki/L%C3%B3gica">Lógica</a></b></h2>
 
 -----
+<center>
 ![](images/giff.gif)
 
 ![](images/gif.gif)
 
-<p align="center">
-  <img width="640" height="360" src="https://j.gifs.com/Gvl9ML.gif">
-</p>
+</center>
 
 ------
 
